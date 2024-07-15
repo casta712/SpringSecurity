@@ -67,10 +67,10 @@ Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any changes you propose.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the casta712.dev file for details.
 
 Contact
-For questions or feedback, please contact your-email@example.com.
+For questions or feedback, please contact your brecasta712@hotmail.com
 
 vbnet
 Copiar código
